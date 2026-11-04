@@ -1,0 +1,6 @@
+{
+  "name": "Daraz PK - Online Marketplace & Seller Center",
+  "description": "Full-featured Pakistani e-commerce platform and seller dashboard with Cash on Delivery, WhatsApp order confirmation, landmark address verification, JazzCash/EasyPaisa payments, product inventory control, and bioscience lab supplies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
